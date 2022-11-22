@@ -1,4 +1,4 @@
-﻿using il_mio_primo_blog.Validator;
+﻿using la_mia_pizzeria_static.Validator;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
